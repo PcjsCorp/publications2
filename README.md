@@ -96,6 +96,7 @@
 
 | Paper Title | Author(s) | Publication Date |
 | --- | --- | --- |
+| [Detecting Implicit Conversions in OpenVPN2 Using CodeQL](reports/detecting-implicit-conversions-in-openvpn2-using-codeql-casestudy.pdf) | Paweł Płatek | September 2025 |
 | [Preventing Account Takeovers on Centralized Cryptocurrency Exchanges Recommended Practices](papers/account-takeover-recommended-practices.pdf) | Shaun Mirani, Kelly Kaoudis, and Evan Sultanik | Feb 2025 |
 | [Input-Driven Recursion: Ongoing Security Risks](papers/trailofbits-20241218-recursion-whitepaper.pdf) | Alexis Challande and Brad Swain | Dec 2024 |
 | [OpenSearch Benchmark Assessment](reports/OpenSearch-Benchmarking.pdf) | Evan Downing, Riccardo Schirone, Francesco Bertolaccini, and Ronald Eytchison | Aug 2024 |
