@@ -542,6 +542,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Anza Token-2022 Confidential Transfer, Cryptography](https://www.anza.xyz/) | Jan 2026 | 7 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-cryptography-securityreview.pdf.pdf) |
 | [Calyx Institute HSM Provisioning Ceremony Scripts](https://calyxos.org/) | Jan 2026 | 1 | | [📄✅](reviews/2026-01-calyx-hsm-provisioning-ceremony-scripts-securityreview.pdf) |
 | [BSV Blockchain TS-SDK](https://bsvassociation.org/) | Jan 2026 | 6 | | [📄✅](reviews/2026-01-bsv-association-ts-sdk-securityreview.pdf) |
 | [Bron Labs MCP Library](https://bron.org/) | Jan 2026 | 8 | | [📄✅](reviews/2026-01-bron-mcp-securityreview.pdf) |
@@ -1023,6 +1024,7 @@ The following clients have engaged Trail of Bits for 5 or more security reviews:
 
 | Product | Date | Level of <br />Effort | Announcement | Report |
 | ---| --: | :-: | --- | :-: |
+| [Anza Token-2022 Confidential Transfer, Blockchain](https://www.anza.xyz/) | Jan 2026 | 3 | | [📄](reviews/2026-01-anza-token-2022-confidential-transfer-blockchain-securityreview.pdf) |
 | [Franklin Templeton Benji Contracts](https://www.franklintempleton.com/about-us/our-teams/specialist-investment-managers/digital-assets/digital-assets-technology) | Feb 2025 | 2 | | [📄✅](reviews/2025-02-franklintempleton-benjicontracts-securityreview.pdf) |
 | [ZetaChain Solana Gateway](https://www.zetachain.com/) | Jan 2025 | 1 | | [📄✅](reviews/2025-01-zetachain-solana-gateway-security-review.pdf) |
 | [Solang Code Generation](https://solana.com/) | Nov 2023 | 4 | | [📄](reviews/2023-11-solana-solang-code-generation-securityreview.pdf) |
